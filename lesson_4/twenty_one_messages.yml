@@ -1,0 +1,6 @@
+# calculator_messages.yml
+welcome: "Welcome to the 21 card game!"
+hit_or_stay: "Do you want to (h)it or (s)tay? Please enter h or s"
+play_agian: "Do you want to play agian? Enter y to play agian and n to stop"
+not_a_valid_answer: "That's not a valid answer."
+thank_you_for_playing: "Thank you for playing 21 cards game. See you next time!!!"

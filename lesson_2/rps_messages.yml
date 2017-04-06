@@ -1,0 +1,10 @@
+
+  choice: "You chose: %{choice}; Computer chose: %{computer_choice}"
+  points: "The score: %{user_points} for you; %{computer_points} for computer"
+  goodbye: "Thank you for playing. Good bye!"
+  play_agian: "Do you want to play again?"
+  not_valid_choice: "That's not a valid choice."
+  user_wins: "You scored 5 points and won the game!"
+  computer_wins: "Computer scored 5 points and won the game"
+  not_valid_answer: "That is not a valid anwser."
+
